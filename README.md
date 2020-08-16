@@ -13,7 +13,7 @@ This project is made using the Tkinter module and used sqlite3. Also, the system
 # Menu: 
 A Menu page that helps in easy access to other segments.
 
-#Student Profile: 
+# Student Profile: 
 Over here we can see all the general pieces of information related to students. Furthermore, we can add, remove, and update the information.
 Library Management System: In this window, we can see all the issued book-related details. It additionally provides a book issue feature where 
 we can check all the present books and issue them.
