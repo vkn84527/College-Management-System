@@ -4,6 +4,8 @@ The College Management System In Python is a simple project developed using Pyth
 It is an integrated console-based application that handles various academic activities of a College. 
 It is a mini python project that is used to keep and maintain the complete record of Students.
 
+![1-2-1536x757](https://user-images.githubusercontent.com/44707673/90329532-48ba3100-dfc3-11ea-997b-c4f453b36e20.png)
+
 # About system
 This College Management System is in Python. Talking about the system, it contains only the admin section.
 This project is made using the Tkinter module and used sqlite3. Also, the system has a simple design so that the user won’t get any difficulties while working on it.
